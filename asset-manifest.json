@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Rohisanku0322/jobs-listing-portal/static/css/main.45623c58.css",
-    "main.js": "/Rohisanku0322/jobs-listing-portal/static/js/main.7268c741.js",
-    "index.html": "/Rohisanku0322/jobs-listing-portal/index.html",
-    "main.45623c58.css.map": "/Rohisanku0322/jobs-listing-portal/static/css/main.45623c58.css.map",
-    "main.7268c741.js.map": "/Rohisanku0322/jobs-listing-portal/static/js/main.7268c741.js.map"
+    "main.css": "/Rohisanku0322/jobs-listing-portal/tree/main/jobsapp-master/frontend/static/css/main.45623c58.css",
+    "main.js": "/Rohisanku0322/jobs-listing-portal/tree/main/jobsapp-master/frontend/static/js/main.3cf0f80d.js",
+    "index.html": "/Rohisanku0322/jobs-listing-portal/tree/main/jobsapp-master/frontend/index.html",
+    "main.45623c58.css.map": "/Rohisanku0322/jobs-listing-portal/tree/main/jobsapp-master/frontend/static/css/main.45623c58.css.map",
+    "main.3cf0f80d.js.map": "/Rohisanku0322/jobs-listing-portal/tree/main/jobsapp-master/frontend/static/js/main.3cf0f80d.js.map"
   },
   "entrypoints": [
     "static/css/main.45623c58.css",
-    "static/js/main.7268c741.js"
+    "static/js/main.3cf0f80d.js"
   ]
 }

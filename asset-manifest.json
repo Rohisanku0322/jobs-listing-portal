@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/jobs-listing-portal/static/css/main.45623c58.css",
-    "main.js": "/jobs-listing-portal/static/js/main.63b226ab.js",
-    "index.html": "/jobs-listing-portal/index.html",
-    "main.45623c58.css.map": "/jobs-listing-portal/static/css/main.45623c58.css.map",
-    "main.63b226ab.js.map": "/jobs-listing-portal/static/js/main.63b226ab.js.map"
+    "main.css": "/Rohisanku0322/jobs-listing-portal/static/css/main.45623c58.css",
+    "main.js": "/Rohisanku0322/jobs-listing-portal/static/js/main.7268c741.js",
+    "index.html": "/Rohisanku0322/jobs-listing-portal/index.html",
+    "main.45623c58.css.map": "/Rohisanku0322/jobs-listing-portal/static/css/main.45623c58.css.map",
+    "main.7268c741.js.map": "/Rohisanku0322/jobs-listing-portal/static/js/main.7268c741.js.map"
   },
   "entrypoints": [
     "static/css/main.45623c58.css",
-    "static/js/main.63b226ab.js"
+    "static/js/main.7268c741.js"
   ]
 }

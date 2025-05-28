@@ -1,5 +1,5 @@
 {
-  "homepage" :"https://github.com/Rohisanku0322/jobs-listing-portal/tree/main/jobsapp-master/frontend",
+
   "name": "template",
 
   "version": "0.1.0",
@@ -76,10 +76,7 @@
 
     "test": "react-scripts test",
 
-    "eject": "react-scripts eject",
-"predeploy": "npm run build",
-"deploy": "gh-pages -d build"
-
+    "eject": "react-scripts eject"
 
   },
 
